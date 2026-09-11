@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://diegohgalvao.github.io/handbook-k46o4u/sitemap.xml
